@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Sobre o Curso de Sistemas para Internet - IFSP Birigui</title>
+    <style>/* Estilo para o título principal */
+/* Estilo para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F5F5F5;
+    color: #333333;
+  }
+  
+  /* Estilo para o título principal */
+  h1 {
+    font-size: 48px;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  /* Estilo para os parágrafos */
+  p {
+    font-size: 20px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilo para os títulos secundários */
+  h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilo para a tabela */
+  table {
+    border-collapse: collapse;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 100%;
+  }
+  
+  /* Estilo para as células da tabela */
+  th, td {
+    padding: 10px;
+    border: 1px solid #CCCCCC;
+  }
+  
+  /* Estilo para as células do cabeçalho da tabela */
+  th {
+    background-color: #EEEEEE;
+    font-weight: bold;
+  }
+  
+  /* Estilo para a lista não ordenada */
+  ul {
+    font-size: 20px;
+    line-height: 1.5;
+  }
+  
+  /* Estilo para a lista ordenada */
+  ol {
+    font-size: 20px;
+    line-height: 1.5;
+  }
+  
+  /* Estilo para os links */
+  a {
+    color: #0066CC;
+  }
+  
+  /* Estilo para os links quando hover */
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Estilo para o rodapé da página */
+  footer {
+    background-color: #333333;
+    color: #FFFFFF;
+    padding: 20px;
+  }
+  
+  /* Estilo para o conteúdo do rodapé */
+  footer p {
+    font-size: 16px;
+    margin: 0;
+  }
+  
+  /* Estilo para o link do rodapé */
+  footer a {
+    color: #FFFFFF;
+  }
+  
+        </style>
+  </head>
+  <body>
+    
+  
+    
+    
+
+    
+
+
+        
+
+        
+	<p>A utilização dos laboratórios de informática do Bloco B segue as seguintes normas:</p>
+	<ul>
+		<li>É proibido comer ou beber dentro do laboratório;</li>
+		<li>É obrigatório o uso de calçados fechados;</li>
+		<li>É proibido instalar softwares ou alterar configurações dos computadores;</li>
+		<li>É proibido utilizar os computadores para fins pessoais, como jogos, redes sociais, entre outros;</li>
+		<li>É obrigatório fazer backup dos arquivos pessoais em um dispositivo externo, pois os dados serão apagados após o término da aula.</li>
+	</ul>
+    <h2>Normas do Laboratório do Bloco B</h2>
+	<h2>Regimento do Câmpus</h2>
+	<p>Para mais informações sobre o regimento do câmpus, acesse o link abaixo:</p>
+	<a href="#">Link de acesso ao regimento do câmpus</a>
+</body>
+</html>
